@@ -1,0 +1,349 @@
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Design.dll
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\bin\Debug\MetroFramework.dll
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AddAdminControl.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AdminPanelControl.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.AddDoctorControl.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.DoctorPanelControl.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Staff_Panel_Ui.AddStaffControl.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.StaffPanelControl.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddWardControl.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutControl.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutHistoryControl.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.WardControl.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddRoomControl.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.AdminForm.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.DoctorForm.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Form1.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientInfoControl.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientRegistrationControl.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.StaffDashboard.resources
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\App.csproj.CopyComplete
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\syed_\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Design.dll
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\bin\Debug\MetroFramework.dll
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Fonts.dll
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.dll
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.xml
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AddAdminControl.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AdminPanelControl.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.AddDoctorControl.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.DoctorPanelControl.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Staff_Panel_Ui.AddStaffControl.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.StaffPanelControl.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddWardControl.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutControl.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutHistoryControl.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.WardControl.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddRoomControl.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.AdminForm.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.DoctorForm.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientInfoControl.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientRegistrationControl.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\App.csproj.GenerateResource.cache
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\App.csproj.CoreCompileInputs.cache
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\App.csproj.CopyComplete
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\App.csprojAssemblyReference.cache
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.LogInForm.resources
+F:\class\SMSTR 6\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.StaffForm.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Design.dll
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\bin\Debug\MetroFramework.dll
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AddAdminControl.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AdminPanelControl.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.AddDoctorControl.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.DoctorPanelControl.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Staff_Panel_Ui.AddStaffControl.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.StaffPanelControl.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.ExtraServicesControl.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddWardControl.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutControl.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutHistoryControl.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.WardControl.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddRoomControl.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.AdminForm.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.DoctorForm.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.LogInForm.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientInfoControl.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientRegistrationControl.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.StaffForm.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\App.csproj.CopyComplete
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
+J:\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+J:\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+J:\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+J:\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Design.dll
+J:\WindowsForm\WindowsForm\bin\Debug\MetroFramework.dll
+J:\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Fonts.dll
+J:\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.dll
+J:\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.xml
+J:\WindowsForm\WindowsForm\obj\Debug\App.csprojAssemblyReference.cache
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AddAdminControl.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AdminPanelControl.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.AddDoctorControl.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.DoctorPanelControl.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Staff_Panel_Ui.AddStaffControl.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.StaffPanelControl.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.ExtraServicesControl.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddWardControl.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutControl.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutHistoryControl.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.WardControl.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddRoomControl.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.AdminForm.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.DoctorForm.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.LogInForm.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientInfoControl.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientRegistrationControl.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.StaffForm.resources
+J:\WindowsForm\WindowsForm\obj\Debug\App.csproj.GenerateResource.cache
+J:\WindowsForm\WindowsForm\obj\Debug\App.csproj.CoreCompileInputs.cache
+J:\WindowsForm\WindowsForm\obj\Debug\App.csproj.CopyComplete
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
+J:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.PrescriptionControl.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.PrescriptionControl.resources
+C:\Users\Borno\Desktop\OOP2\WindowsForm\WindowsForm\obj\Debug\App.csprojAssemblyReference.cache
+I:\WindowsForm\WindowsForm\obj\Debug\App.csprojAssemblyReference.cache
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AddAdminControl.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AdminPanelControl.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.AddDoctorControl.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.DoctorPanelControl.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.PrescriptionControl.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Staff_Panel_Ui.AddStaffControl.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.StaffPanelControl.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.ExtraServicesControl.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddWardControl.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutControl.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutHistoryControl.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.WardControl.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddRoomControl.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.AdminForm.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.DoctorForm.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.LogInForm.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientInfoControl.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientRegistrationControl.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.StaffForm.resources
+I:\WindowsForm\WindowsForm\obj\Debug\App.csproj.GenerateResource.cache
+I:\WindowsForm\WindowsForm\obj\Debug\App.csproj.CoreCompileInputs.cache
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+I:\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
+I:\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+I:\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+I:\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+I:\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Design.dll
+I:\WindowsForm\WindowsForm\bin\Debug\MetroFramework.dll
+I:\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Fonts.dll
+I:\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.dll
+I:\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.xml
+I:\WindowsForm\WindowsForm\obj\Debug\App.csproj.CopyComplete
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Design.dll
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\bin\Debug\MetroFramework.dll
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AddAdminControl.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AdminPanelControl.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.AddDoctorControl.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.DoctorPanelControl.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.PrescriptionControl.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Staff_Panel_Ui.AddStaffControl.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.StaffPanelControl.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.ExtraServicesControl.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddWardControl.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutControl.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutHistoryControl.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.WardControl.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddRoomControl.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.AdminForm.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.DoctorForm.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.LogInForm.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientInfoControl.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientRegistrationControl.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.StaffForm.resources
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\App.csproj.CopyComplete
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.PatientInfoForDoctorControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Design.dll
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\bin\Debug\MetroFramework.dll
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AddAdminControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AdminPanelControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.AddDoctorControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.DoctorPanelControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.PatientInfoForDoctorControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.PrescriptionControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Staff_Panel_Ui.AddStaffControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.StaffPanelControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.ExtraServicesControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddWardControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutHistoryControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.WardControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddRoomControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.AdminForm.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.DoctorForm.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.LogInForm.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientInfoControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientRegistrationControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.StaffForm.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\App.csproj.CopyComplete
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
+C:\Users\Borno\Desktop\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.NotificationControl.resources
+C:\Users\syed_\OneDrive\Desktop\New folder\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.NotificationControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Design.dll
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\bin\Debug\MetroFramework.dll
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AddAdminControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AdminPanelControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.AddDoctorControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.DoctorPanelControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.NotificationControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.PatientInfoForDoctorControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.PrescriptionControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Staff_Panel_Ui.AddStaffControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.StaffPanelControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.ExtraServicesControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddWardControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutHistoryControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.WardControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddRoomControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.AdminForm.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.DoctorForm.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.LogInForm.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientInfoControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientRegistrationControl.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.StaffForm.resources
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\App.csproj.CopyComplete
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
+C:\Users\syed_\OneDrive\Desktop\V5\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.ChangePasswordControl.resources
+I:\V7\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+I:\V7\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+I:\V7\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+I:\V7\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Design.dll
+I:\V7\WindowsForm\WindowsForm\bin\Debug\MetroFramework.dll
+I:\V7\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Fonts.dll
+I:\V7\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.dll
+I:\V7\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.xml
+I:\V7\WindowsForm\WindowsForm\obj\Debug\App.csprojAssemblyReference.cache
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AddAdminControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AdminPanelControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.ChangePasswordControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.AddDoctorControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.DoctorPanelControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.NotificationControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.PatientInfoForDoctorControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.PrescriptionControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Staff_Panel_Ui.AddStaffControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.StaffPanelControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.ExtraServicesControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddWardControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutHistoryControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.WardControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddRoomControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.AdminForm.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.DoctorForm.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.LogInForm.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientInfoControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientRegistrationControl.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.StaffForm.resources
+I:\V7\WindowsForm\WindowsForm\obj\Debug\App.csproj.GenerateResource.cache
+I:\V7\WindowsForm\WindowsForm\obj\Debug\App.csproj.CoreCompileInputs.cache
+I:\V7\WindowsForm\WindowsForm\obj\Debug\App.csproj.CopyComplete
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+I:\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Design.dll
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\bin\Debug\MetroFramework.dll
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AddAdminControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Admin_Panel_Ui.AdminPanelControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.ChangePasswordControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.AddDoctorControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.DoctorPanelControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.NotificationControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Doctor_Panel_Ui.PatientInfoForDoctorControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.PrescriptionControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.Staff_Panel_Ui.AddStaffControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.StaffPanelControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.ExtraServicesControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddWardControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.CheckOutHistoryControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.WardControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Control_Ui.AddRoomControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.AdminForm.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Forms.DoctorForm.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.LogInForm.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientInfoControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.PatientRegistrationControl.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.StaffForm.resources
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\App.csproj.CopyComplete
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\Borno\Desktop\V7\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
